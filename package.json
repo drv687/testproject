@@ -1,0 +1,11 @@
+{
+  "name": "testproject",
+  "version": "0.1.0",
+  "description": "My test project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Diana Van Hook <drv687@gmail.com>",
+  "license": 
+}
